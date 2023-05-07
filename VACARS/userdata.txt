@@ -1,0 +1,4 @@
+Email:System.Windows.Forms.TextBox, Text: r
+Username:System.Windows.Forms.TextBox, Text: 
+First:System.Windows.Forms.TextBox, Text: 
+Sur:System.Windows.Forms.TextBox, Text: 

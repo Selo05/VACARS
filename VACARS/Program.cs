@@ -1,3 +1,6 @@
+using System.Diagnostics;
+using System.Security.Principal;
+
 namespace VACARS
 {
     internal static class Program
@@ -10,8 +13,9 @@ namespace VACARS
         {
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
+            
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new VACARS_Login());
         }
     }
 }
